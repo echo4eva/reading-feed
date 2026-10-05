@@ -1,187 +1,443 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel>
-<title>Echo's Reading Feed</title>
-<link>https://echo4eva.github.io/reading-feed/</link>
-<atom:link href="https://echo4eva.github.io/reading-feed/feed.xml" rel="self" type="application/rss+xml"/>
-<description>Curated reading lists: how live events and esports get made. Items marked [recommended] are the picks.</description>
-<language>en-us</language>
-<lastBuildDate>Sat, 03 Oct 2026 15:00:00 -0700</lastBuildDate>
-<item>
-<title>[recommended] Electric Zoo Part 3 - Load Out</title>
-<link>https://soundgirls.org/electric-zoo-part-3-load-out/</link>
-<guid isPermaLink="true">https://soundgirls.org/electric-zoo-part-3-load-out/</guid>
-<pubDate>Sat, 03 Oct 2026 15:00:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>Kelly Levstek (SoundGirls) - A storm-canceled festival turns into a muddy overnight strike, with too few hands, tangled cables and several departments trying to pack at once.</description>
-</item>
-<item>
-<title>[recommended] A gaming event in a League of its own</title>
-<link>https://www.techinterrupt.com/p/a-gaming-event-in-a-league-of-its</link>
-<guid isPermaLink="true">https://www.techinterrupt.com/p/a-gaming-event-in-a-league-of-its</guid>
-<pubDate>Sat, 03 Oct 2026 14:59:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>Tristan Greaves (Tech Interrupt) - Backstage tour of the Worlds 2024 final at the O2 in London: 72 cameras, 80 transmission lines, 256 audio channels, 1,500+ on-site crew. Shows the scale from the floor, not the control room.</description>
-</item>
-<item>
-<title>[recommended] Riot Games streamlines production of Valorant Champions Paris with ST 2110 flypack</title>
-<link>https://www.svgeurope.org/blog/headlines/riot-games-streamlines-production-of-valorant-champions-paris-with-st-2110-flypack/</link>
-<guid isPermaLink="true">https://www.svgeurope.org/blog/headlines/riot-games-streamlines-production-of-valorant-champions-paris-with-st-2110-flypack/</guid>
-<pubDate>Sat, 03 Oct 2026 14:58:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>SVG Europe - Riot's new IP-based flypack: tech load-in cut from two days to about four hours, around 40 feeds out to language partners, 80ms round trip to Dublin. Explains why crews are changing.</description>
-</item>
-<item>
-<title>[recommended] Tech-eye view: Inside the epic remote production for LoL Worlds Finals 2024</title>
-<link>https://www.svgeurope.org/blog/headlines/tech-eye-view-inside-the-epic-remote-production-for-riot-games-league-of-legends-world-championships-finals-2024/</link>
-<guid isPermaLink="true">https://www.svgeurope.org/blog/headlines/tech-eye-view-inside-the-epic-remote-production-for-riot-games-league-of-legends-world-championships-finals-2024/</guid>
-<pubDate>Sat, 03 Oct 2026 14:57:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>SVG Europe - Q&amp;A with Riot's broadcast engineering manager. What stays on site (truck, co-streamers) versus what runs from Riot's Dublin remote broadcast center, plus the automated vertical feed.</description>
-</item>
-<item>
-<title>[recommended] League of Legends' unsung heroes: The magician of MSI 2023</title>
-<link>https://www.pcgamesn.com/league-of-legends/msi-stage-manager-interview</link>
-<guid isPermaLink="true">https://www.pcgamesn.com/league-of-legends/msi-stage-manager-interview</guid>
-<pubDate>Sat, 03 Oct 2026 14:56:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>PCGamesN - Interview with Sebastian Leathlean, stage manager for every League international event since 2017. What a stage manager does for teams and players on the day.</description>
-</item>
-<item>
-<title>[recommended] Touring 101 - Life on The Road pt.1</title>
-<link>https://www.chrisshrom.com/touring-101-life-on-the-road-pt-1/</link>
-<guid isPermaLink="true">https://www.chrisshrom.com/touring-101-life-on-the-road-pt-1/</guid>
-<pubDate>Sat, 03 Oct 2026 14:55:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>Chris Shrom - A lighting professional explains club, theatre, arena, stadium and fly-date life, including trucks, bus calls and corporate-show waiting.</description>
-</item>
-<item>
-<title>TrustFall Technology Group Transforms Las Vegas Convention Center Into Evo 2026 Esports Arena in Less Than 72 Hours</title>
-<link>https://www.einpresswire.com/article/921399539/trustfall-technology-group-transforms-las-vegas-convention-center-into-evo-2026-esports-arena-in-less-than-72-hours</link>
-<guid isPermaLink="true">https://www.einpresswire.com/article/921399539/trustfall-technology-group-transforms-las-vegas-convention-center-into-evo-2026-esports-arena-in-less-than-72-hours</guid>
-<pubDate>Sat, 03 Oct 2026 14:54:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>Aroluxe / TrustFall (EIN Presswire) - The Evo 2026 company release describes roughly 300 crew, a three-day build, LED walls, rigging points and the audio problem of a concrete convention hall.</description>
-</item>
-<item>
-<title>Curve balls: Making the Esports World Cup production run smoothly</title>
-<link>https://www.svgeurope.org/blog/headlines/curve-balls-making-the-esports-world-cup-production-run-smoothly/</link>
-<guid isPermaLink="true">https://www.svgeurope.org/blog/headlines/curve-balls-making-the-esports-world-cup-production-run-smoothly/</guid>
-<pubDate>Sat, 03 Oct 2026 14:53:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>SVG Europe - Gravity Media on what goes wrong and gets fixed: a last-minute location change, a late call to add cinema cameras on the main stage, four stages. Useful for the 'how plans change' side.</description>
-</item>
-<item>
-<title>Ingesting Live Video Streams at Global Scale</title>
-<link>https://blog.twitch.tv/en/2022/04/26/ingesting-live-video-streams-at-global-scale/</link>
-<guid isPermaLink="true">https://blog.twitch.tv/en/2022/04/26/ingesting-live-video-streams-at-global-scale/</guid>
-<pubDate>Sat, 03 Oct 2026 14:52:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>Twitch Engineering - Twitch's video ingest team on points of presence, backbone and origin data centers. Software side of getting a live stream to viewers. Read it for the pipeline, not the stage.</description>
-</item>
-<item>
-<title>[recommended] Live from the Esports World Cup: Inside the production gallery</title>
-<link>https://www.svgeurope.org/blog/headlines/live-from-the-esports-world-cup-inside-the-production-gallery/</link>
-<guid isPermaLink="true">https://www.svgeurope.org/blog/headlines/live-from-the-esports-world-cup-inside-the-production-gallery/</guid>
-<pubDate>Sat, 03 Oct 2026 14:51:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>SVG Europe - Gallery-level detail: the TD's switcher setup, ATEMs for extra language and sponsor streams, 110 encoders sending about 280 streams, 10-12 live hours per stage per day.</description>
-</item>
-<item>
-<title>[recommended] On the job with IATSE Local 28</title>
-<link>https://nwlaborpress.org/2019/02/on-the-job-with-iatse-local-28/</link>
-<guid isPermaLink="true">https://nwlaborpress.org/2019/02/on-the-job-with-iatse-local-28/</guid>
-<pubDate>Sat, 03 Oct 2026 14:50:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>Don McIntosh (NW Labor Press) - Reported day on a KISS arena build with local riggers, explaining the team above and below the deck and how touring and house crews work together.</description>
-</item>
-<item>
-<title>1,000 crew, 270 gaming PCs, 9 miles of fiber: Behind the scenes at IEM Katowice</title>
-<link>https://thenextweb.com/news/1000-crew-270-gaming-pcs-9-miles-of-fiber-behind-the-scenes-at-iem-katowice</link>
-<guid isPermaLink="true">https://thenextweb.com/news/1000-crew-270-gaming-pcs-9-miles-of-fiber-behind-the-scenes-at-iem-katowice</guid>
-<pubDate>Sat, 03 Oct 2026 14:49:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>The Next Web - ESL's IEM Katowice from a visitor's tour: the internet link feeding concurrent matches on four stages to the cloud. Dated (2017) and light, but shows the LAN-event backbone.</description>
-</item>
-<item>
-<title>[recommended] Labor of love: rigger</title>
-<link>https://www.petzl.com/US/en/Professional/News/2015-9-18/Labor-of-love--rigger</link>
-<guid isPermaLink="true">https://www.petzl.com/US/en/Professional/News/2015-9-18/Labor-of-love--rigger</guid>
-<pubDate>Sat, 03 Oct 2026 14:48:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>Ben Mazuer interview (Petzl) - A working rigger talks through long setup-and-strike days, ceiling load limits, team rotation, fatigue and getting started locally.</description>
-</item>
-<item>
-<title>7 Days, Zero Sleep, Millimetric Passion: Behind the Scenes of the PMGC World Finals</title>
-<link>https://www.sahneva.com/en/blog/pmgc-world-finals-behind-the-scenes</link>
-<guid isPermaLink="true">https://www.sahneva.com/en/blog/pmgc-world-finals-behind-the-scenes</guid>
-<pubDate>Sat, 03 Oct 2026 14:47:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>Sahneva Editorial Team - A PUBG Mobile vendor account focuses on physical stage panels, LED fit, overhead rigging and cross-language coordination at the 2023 Istanbul final.</description>
-</item>
-<item>
-<title>The largest VALORANT production to date and how cloud computing enabled it</title>
-<link>https://madcity.gg/the-largest-valorant-production-to-date-and-how-cloud-computing-enabled-it/</link>
-<guid isPermaLink="true">https://madcity.gg/the-largest-valorant-production-to-date-and-how-cloud-computing-enabled-it/</guid>
-<pubDate>Sat, 03 Oct 2026 14:46:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>Mad City - Fully distributed production crew (TD, audio, replay, graphics, observers) working from a cloud studio. Early example of the remote model Riot now runs permanently.</description>
-</item>
-<item>
-<title>EVO Championship - Mastering eSports Production</title>
-<link>https://trustfall.co/project/evo/</link>
-<guid isPermaLink="true">https://trustfall.co/project/evo/</guid>
-<pubDate>Sat, 03 Oct 2026 14:45:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>Trust Fall Technology Group - An Evo vendor case study explains nine stage builds, concurrent load-ins, 3D visualization, pre-rigging and advance programming.</description>
-</item>
-<item>
-<title>The Team Behind Worlds 2022 Esports Broadcast</title>
-<link>https://www.riotgames.com/en/news/meet-team-behind-worlds-2022-esports-broadcast</link>
-<guid isPermaLink="true">https://www.riotgames.com/en/news/meet-team-behind-worlds-2022-esports-broadcast</guid>
-<pubDate>Sat, 03 Oct 2026 14:44:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>Riot Games - Who actually staffs Worlds: people from film, TV, sports, music and live entertainment. Good for seeing what roles exist and where PA-type people come from.</description>
-</item>
-<item>
-<title>[recommended] Before Doors</title>
-<link>https://hob.farm/articles/before-doors/</link>
-<guid isPermaLink="true">https://hob.farm/articles/before-doors/</guid>
-<pubDate>Sat, 03 Oct 2026 14:43:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>hob.farm - A Las Vegas house-crew account of a five-hour concert load-in after both loading elevators failed.</description>
-</item>
-<item>
-<title>[recommended] Esports World Cup 2025: Inside EFG's Hybrid Production</title>
-<link>https://www.sportsvideo.org/2025/08/14/esports-world-cup-2025-inside-efgs-hybrid-production/</link>
-<guid isPermaLink="true">https://www.sportsvideo.org/2025/08/14/esports-world-cup-2025-inside-efgs-hybrid-production/</guid>
-<pubDate>Sat, 03 Oct 2026 14:42:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>Sports Video Group - ESL FACEIT Group's head of broadcast engineering on running multiple stages, studios and server rooms across several buildings, mixing baseband and ST 2110.</description>
-</item>
-<item>
-<title>[recommended] How Riot Esports Delivers Worlds 2022 Broadcast to a Global Audience</title>
-<link>https://www.riotgames.com/en/news/riot-esports-delivering-custom-global-broadcasts-worlds-2022</link>
-<guid isPermaLink="true">https://www.riotgames.com/en/news/riot-esports-delivering-custom-global-broadcasts-worlds-2022</guid>
-<pubDate>Sat, 03 Oct 2026 14:41:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>Riot Games - The 'world feed' model: Riot builds a kit of venue footage, graphics and music, and 22 partners make 21 language shows from it. Also covers how a broadcast day starts with a story meeting days before going live.</description>
-</item>
-<item>
-<title>[recommended] Let's Load in!</title>
-<link>https://soundgirls.org/lets-load-in/</link>
-<guid isPermaLink="true">https://soundgirls.org/lets-load-in/</guid>
-<pubDate>Sat, 03 Oct 2026 14:40:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>SoundGirls (byline not exposed in fetched article) - A touring audio lead walks through Mean Girls load-in, from truck order and cable runs to splitting the local crew and tuning the room.</description>
-</item>
-<item>
-<title>How Riot used tech from The Mandalorian to build Worlds' mixed reality stage</title>
-<link>https://www.theverge.com/2020/10/24/21529317/league-of-legends-world-championship-high-tech-stage-riot-mandalorian</link>
-<guid isPermaLink="true">https://www.theverge.com/2020/10/24/21529317/league-of-legends-world-championship-high-tech-stage-riot-mandalorian</guid>
-<pubDate>Sat, 03 Oct 2026 14:39:00 -0700</pubDate>
-<category>how-it-gets-made</category>
-<description>The Verge - LED volume stage for the 2020 Shanghai Worlds, built on a compressed schedule when travel stopped. Older and consumer-press level, but a clear picture of stage tech.</description>
-</item>
-</channel>
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Echo's Reading Feed</title>
+    <link>https://echo4eva.github.io/reading-feed/</link>
+    <atom:link href="https://echo4eva.github.io/reading-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Curated reading lists: how live events and esports get made. Items marked [recommended] are the picks.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Oct 2026 20:29:20 -0700</lastBuildDate>
+    <item>
+      <title>[recommended] Believe In Others</title>
+      <link>https://newsletter.pathlesspath.com/p/believe-in-others-193</link>
+      <guid isPermaLink="true">https://newsletter.pathlesspath.com/p/believe-in-others-193</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Paul Millerd - The closest match: people who raise another person's ambitions before success is visible.</description>
+    </item>
+    <item>
+      <title>[recommended] Seeing Possibilities - The Donella Meadows Project</title>
+      <link>https://donellameadows.org/archives/seeing-possibilities/</link>
+      <guid isPermaLink="true">https://donellameadows.org/archives/seeing-possibilities/</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Elizabeth Sawin - A parent's task to reflect a child's potential becomes a way of believing in humanity.</description>
+    </item>
+    <item>
+      <title>[recommended] Believing in people as a conscious act of rebellion</title>
+      <link>https://thenomadicadhdcoach.substack.com/p/believing-in-people-as-a-conscious</link>
+      <guid isPermaLink="true">https://thenomadicadhdcoach.substack.com/p/believing-in-people-as-a-conscious</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>The Nomadic ADHD Coach - Believing in people is a deliberate rebellion against a culture of fault-finding.</description>
+    </item>
+    <item>
+      <title>[recommended] How to be your friend's #1 fan</title>
+      <link>https://forevers.substack.com/p/be-a-fan-of-your-friends</link>
+      <guid isPermaLink="true">https://forevers.substack.com/p/be-a-fan-of-your-friends</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Erin Greenawald - A thoughtful guide to noticing and celebrating the work friends quietly care about.</description>
+    </item>
+    <item>
+      <title>[recommended] Mudita. The practice of sympathetic joy.</title>
+      <link>https://www.andreascher.com/2014/05/mudita-the-practice-of-sympathetic-joy/</link>
+      <guid isPermaLink="true">https://www.andreascher.com/2014/05/mudita-the-practice-of-sympathetic-joy/</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Andrea Scher - A blogger discovers that celebrating other people's victories makes her own heart feel full.</description>
+    </item>
+    <item>
+      <title>[recommended] The secret to happiness? Finding joy in others.</title>
+      <link>https://www.theguardian.com/commentisfree/2025/aug/25/the-secret-to-happiness-finding-joy-in-others-its-free-simple-and-will-gladden-your-heart</link>
+      <guid isPermaLink="true">https://www.theguardian.com/commentisfree/2025/aug/25/the-secret-to-happiness-finding-joy-in-others-its-free-simple-and-will-gladden-your-heart</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Nadine Levy - Her realization: she does not have to be the center of her own happiness.</description>
+    </item>
+    <item>
+      <title>[recommended] The blessing of cheering people on</title>
+      <link>https://www.americamagazine.org/faith/2025/06/13/balcony-people-god-encourage-250917/</link>
+      <guid isPermaLink="true">https://www.americamagazine.org/faith/2025/06/13/balcony-people-god-encourage-250917/</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Joe Pagetta - "Balcony people" lift others up with real encouragement instead of automatic judgment.</description>
+    </item>
+    <item>
+      <title>[recommended] Sympathetic Joy</title>
+      <link>https://www.upaya.org/2011/12/sympathetic-joy-by-sharon-salzberg/</link>
+      <guid isPermaLink="true">https://www.upaya.org/2011/12/sympathetic-joy-by-sharon-salzberg/</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Sharon Salzberg - Treat others' happiness as a source of your own, rather than a limited resource.</description>
+    </item>
+    <item>
+      <title>[recommended] RISE: The Value of Believing in Someone</title>
+      <link>https://www.psychologytoday.com/us/blog/alone-together/202406/rise-the-value-of-believing-in-someone</link>
+      <guid isPermaLink="true">https://www.psychologytoday.com/us/blog/alone-together/202406/rise-the-value-of-believing-in-someone</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Jennifer L. Keluskar - Explains what your belief can do for the person receiving it.</description>
+    </item>
+    <item>
+      <title>[recommended] What Archbishop Tutu's ubuntu credo teaches the world about justice and harmony</title>
+      <link>https://theconversation.com/what-archbishop-tutus-ubuntu-credo-teaches-the-world-about-justice-and-harmony-84730</link>
+      <guid isPermaLink="true">https://theconversation.com/what-archbishop-tutus-ubuntu-credo-teaches-the-world-about-justice-and-harmony-84730</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Thaddeus Metz - A philosophical frame for why helping others flourish can feel deeply human.</description>
+    </item>
+    <item>
+      <title>[recommended] 2013 Convocation Address</title>
+      <link>https://artsandsciences.syracuse.edu/news-all/news-2013/2013-george_saunders_convocation/</link>
+      <guid isPermaLink="true">https://artsandsciences.syracuse.edu/news-all/news-2013/2013-george_saunders_convocation/</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>George Saunders - A moving speech about becoming less self-centered and more loving without abandoning your ambitions.</description>
+    </item>
+    <item>
+      <title>[recommended] Alain de Botton on Emotional Generosity and the Difficult, Largehearted Art of Charity of Interpretation</title>
+      <link>https://www.themarginalian.org/2020/11/27/alain-de-botton-charity-of-interpretation/</link>
+      <guid isPermaLink="true">https://www.themarginalian.org/2020/11/27/alain-de-botton-charity-of-interpretation/</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Maria Popova - Believing in people can mean allowing room for growth even when they are imperfect.</description>
+    </item>
+    <item>
+      <title>[recommended] Mudita: The Buddha's Teaching on Unselfish Joy</title>
+      <link>https://www.accesstoinsight.org/ati/lib/authors/various/wheel170.html</link>
+      <guid isPermaLink="true">https://www.accesstoinsight.org/ati/lib/authors/various/wheel170.html</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Nyanaponika Thera and contributors - A whole collection about why shared joy and support are natural capacities worth developing.</description>
+    </item>
+    <item>
+      <title>[adjacent] Be Someone People Can Root For</title>
+      <link>https://newsletter.pathlesspath.com/p/be-someone-people-can-root-for-212</link>
+      <guid isPermaLink="true">https://newsletter.pathlesspath.com/p/be-someone-people-can-root-for-212</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Paul Millerd - The other side of the feeling: letting people see your hopes so they can root for you.</description>
+    </item>
+    <item>
+      <title>[adjacent] Mudita is not "sympathetic joy"</title>
+      <link>https://www.wildmind.org/blogs/on-practice/mudita-is-not-sympathetic-joy</link>
+      <guid isPermaLink="true">https://www.wildmind.org/blogs/on-practice/mudita-is-not-sympathetic-joy</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Bodhipaksa - A narrower view: celebrate the good qualities and actions that help people flourish, not every kind of success.</description>
+    </item>
+    <item>
+      <title>[adjacent] Root for Your Friends · Joseph Thacker</title>
+      <link>https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html</link>
+      <guid isPermaLink="true">https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Joseph Thacker - Rooting for friends creates a shared upward spiral, not a competition.</description>
+    </item>
+    <item>
+      <title>[recommended] Championing: the worthwhile risk of believing in people out loud - Nick Robinson</title>
+      <link>https://www.nickrobinson.org/championing-the-worthwhile-risk-of-believing-in-people-out-loud</link>
+      <guid isPermaLink="true">https://www.nickrobinson.org/championing-the-worthwhile-risk-of-believing-in-people-out-loud</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Nick Robinson - A name for the active part: championing is believing in people out loud.</description>
+    </item>
+    <item>
+      <title>[adjacent] The Case for Creative Generosity</title>
+      <link>https://www.richardholman.com/blog/2022/6/13/in-defence-of-creative-generosity</link>
+      <guid isPermaLink="true">https://www.richardholman.com/blog/2022/6/13/in-defence-of-creative-generosity</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Richard Holman - Find pleasure in where someone else can take an idea you shared.</description>
+    </item>
+    <item>
+      <title>[adjacent] Believing in People – Gary Blog</title>
+      <link>https://garyong.com/?p=1024</link>
+      <guid isPermaLink="true">https://garyong.com/?p=1024</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Gary Ong - People are more than resources on a project chart.</description>
+    </item>
+    <item>
+      <title>[adjacent] I Believe in You – GBShaw Blog</title>
+      <link>https://gbshaw.blog/2024/02/26/i-believe-in-you/</link>
+      <guid isPermaLink="true">https://gbshaw.blog/2024/02/26/i-believe-in-you/</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>GBShaw Blog - A former vicar argues that faith in people is an overlooked kind of faith.</description>
+    </item>
+    <item>
+      <title>[adjacent] I Believe in People</title>
+      <link>https://middlemethis.blogspot.com/2011/04/i-believe-in-people.html</link>
+      <guid isPermaLink="true">https://middlemethis.blogspot.com/2011/04/i-believe-in-people.html</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Stuck in the Middle with You - An obscure personal blogger chooses to believe in people without claiming certainty about everything they believe.</description>
+    </item>
+    <item>
+      <title>[recommended] Mudita (Sympathetic Joy): The Most Difficult Brahma-Vihara to Cultivate</title>
+      <link>https://www.samwoolfe.com/2023/02/barriers-to-mudita-sympathetic-joy.html</link>
+      <guid isPermaLink="true">https://www.samwoolfe.com/2023/02/barriers-to-mudita-sympathetic-joy.html</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Sam Woolfe - Explores why genuine joy for others can become difficult even when we want it.</description>
+    </item>
+    <item>
+      <title>[recommended] Mudita for Yourself? Yes, Definitely!</title>
+      <link>https://leighb.com/mudita.htm</link>
+      <guid isPermaLink="true">https://leighb.com/mudita.htm</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Jill Shepherd and Leigh Brasington - Shared joy can include your own flourishing too.</description>
+    </item>
+    <item>
+      <title>[recommended] Muditā: Intention Beyond Selectivity - by Kasia Murfet</title>
+      <link>https://kasiamurfet.substack.com/p/mudita-intention-beyond-selectivity</link>
+      <guid isPermaLink="true">https://kasiamurfet.substack.com/p/mudita-intention-beyond-selectivity</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Kasia Murfet - A small beach scene becomes a reflection on opening to strangers' happiness.</description>
+    </item>
+    <item>
+      <title>[recommended] Finding joy in others' happiness</title>
+      <link>https://thecreativecurrent.substack.com/p/finding-joy-in-others-happiness</link>
+      <guid isPermaLink="true">https://thecreativecurrent.substack.com/p/finding-joy-in-others-happiness</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>T. Elizabeth Bell - A writer takes joy in engagements, creative breakthroughs and a well-earned prize.</description>
+    </item>
+    <item>
+      <title>[recommended] Be a fan of your friends</title>
+      <link>https://peachkit.substack.com/p/be-a-fan-of-your-friends</link>
+      <guid isPermaLink="true">https://peachkit.substack.com/p/be-a-fan-of-your-friends</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Peachkit - Being a fan of friends gives a musician the energy to keep showing up.</description>
+    </item>
+    <item>
+      <title>[recommended] Being Fans of Each Other – Roll for Joy</title>
+      <link>https://roll4joy.org/2026/06/08/being-fans-of-each-other/</link>
+      <guid isPermaLink="true">https://roll4joy.org/2026/06/08/being-fans-of-each-other/</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Rory the Dungeon Master Pastor - At a gaming table, rooting for each other turns success into a shared story.</description>
+    </item>
+    <item>
+      <title>[recommended] The Sweet and Bitter Gifts of Seeing Potential in others</title>
+      <link>https://www.jamieleecoach.com/blog/the-sweet-and-bitter-gifts-of-seeing-potential-in-others</link>
+      <guid isPermaLink="true">https://www.jamieleecoach.com/blog/the-sweet-and-bitter-gifts-of-seeing-potential-in-others</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Jamie Lee - A valuable counterpoint: your picture of someone's potential must not become a demand.</description>
+    </item>
+    <item>
+      <title>[recommended] Why I believe in people. – @visakanv's archives</title>
+      <link>https://www.visakanv.com/archives/2010/11/04/why-i-believe-in-people/</link>
+      <guid isPermaLink="true">https://www.visakanv.com/archives/2010/11/04/why-i-believe-in-people/</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Visakan Veerasamy - Believing in yourself and believing in others can come from the same respect for human possibility.</description>
+    </item>
+    <item>
+      <title>[recommended] The joys of mentorship</title>
+      <link>https://dorothyanneb.ca/2025/04/17/the-joys-of-mentorship/</link>
+      <guid isPermaLink="true">https://dorothyanneb.ca/2025/04/17/the-joys-of-mentorship/</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Dorothy Anne - A funny personal account of how much joy and learning the mentor gets back.</description>
+    </item>
+    <item>
+      <title>[recommended] The True Meaning of Mentorship</title>
+      <link>https://normanwinarsky.substack.com/p/the-true-meaning-of-mentorship</link>
+      <guid isPermaLink="true">https://normanwinarsky.substack.com/p/the-true-meaning-of-mentorship</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Norman Winarsky - A eulogy remembers someone who saw a young person's potential and changed the shape of his life.</description>
+    </item>
+    <item>
+      <title>[recommended] Tell Me Your Hopes and Dreams</title>
+      <link>https://ronamaynard.substack.com/p/tell-me-your-hopes-and-dreams</link>
+      <guid isPermaLink="true">https://ronamaynard.substack.com/p/tell-me-your-hopes-and-dreams</guid>
+      <pubDate>Sun, 04 Oct 2026 20:29:20 -0700</pubDate>
+      <category>believing-in-others</category>
+      <description>Rona Maynard - A mentor first asks about her hopes and dreams; decades later she does the same for another writer.</description>
+    </item>
+    <item>
+      <title>[recommended] Electric Zoo Part 3 - Load Out</title>
+      <link>https://soundgirls.org/electric-zoo-part-3-load-out/</link>
+      <guid isPermaLink="true">https://soundgirls.org/electric-zoo-part-3-load-out/</guid>
+      <pubDate>Sat, 03 Oct 2026 15:00:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Kelly Levstek (SoundGirls) - A storm-canceled festival turns into a muddy overnight strike, with too few hands, tangled cables and several departments trying to pack at once.</description>
+    </item>
+    <item>
+      <title>[recommended] A gaming event in a League of its own</title>
+      <link>https://www.techinterrupt.com/p/a-gaming-event-in-a-league-of-its</link>
+      <guid isPermaLink="true">https://www.techinterrupt.com/p/a-gaming-event-in-a-league-of-its</guid>
+      <pubDate>Sat, 03 Oct 2026 14:59:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Tristan Greaves (Tech Interrupt) - Backstage tour of the Worlds 2024 final at the O2 in London: 72 cameras, 80 transmission lines, 256 audio channels, 1,500+ on-site crew. Shows the scale from the floor, not the control room.</description>
+    </item>
+    <item>
+      <title>[recommended] Riot Games streamlines production of Valorant Champions Paris with ST 2110 flypack</title>
+      <link>https://www.svgeurope.org/blog/headlines/riot-games-streamlines-production-of-valorant-champions-paris-with-st-2110-flypack/</link>
+      <guid isPermaLink="true">https://www.svgeurope.org/blog/headlines/riot-games-streamlines-production-of-valorant-champions-paris-with-st-2110-flypack/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:58:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>SVG Europe - Riot's new IP-based flypack: tech load-in cut from two days to about four hours, around 40 feeds out to language partners, 80ms round trip to Dublin. Explains why crews are changing.</description>
+    </item>
+    <item>
+      <title>[recommended] Tech-eye view: Inside the epic remote production for LoL Worlds Finals 2024</title>
+      <link>https://www.svgeurope.org/blog/headlines/tech-eye-view-inside-the-epic-remote-production-for-riot-games-league-of-legends-world-championships-finals-2024/</link>
+      <guid isPermaLink="true">https://www.svgeurope.org/blog/headlines/tech-eye-view-inside-the-epic-remote-production-for-riot-games-league-of-legends-world-championships-finals-2024/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:57:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>SVG Europe - Q&amp;A with Riot's broadcast engineering manager. What stays on site (truck, co-streamers) versus what runs from Riot's Dublin remote broadcast center, plus the automated vertical feed.</description>
+    </item>
+    <item>
+      <title>[recommended] League of Legends' unsung heroes: The magician of MSI 2023</title>
+      <link>https://www.pcgamesn.com/league-of-legends/msi-stage-manager-interview</link>
+      <guid isPermaLink="true">https://www.pcgamesn.com/league-of-legends/msi-stage-manager-interview</guid>
+      <pubDate>Sat, 03 Oct 2026 14:56:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>PCGamesN - Interview with Sebastian Leathlean, stage manager for every League international event since 2017. What a stage manager does for teams and players on the day.</description>
+    </item>
+    <item>
+      <title>[recommended] Touring 101 - Life on The Road pt.1</title>
+      <link>https://www.chrisshrom.com/touring-101-life-on-the-road-pt-1/</link>
+      <guid isPermaLink="true">https://www.chrisshrom.com/touring-101-life-on-the-road-pt-1/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:55:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Chris Shrom - A lighting professional explains club, theatre, arena, stadium and fly-date life, including trucks, bus calls and corporate-show waiting.</description>
+    </item>
+    <item>
+      <title>TrustFall Technology Group Transforms Las Vegas Convention Center Into Evo 2026 Esports Arena in Less Than 72 Hours</title>
+      <link>https://www.einpresswire.com/article/921399539/trustfall-technology-group-transforms-las-vegas-convention-center-into-evo-2026-esports-arena-in-less-than-72-hours</link>
+      <guid isPermaLink="true">https://www.einpresswire.com/article/921399539/trustfall-technology-group-transforms-las-vegas-convention-center-into-evo-2026-esports-arena-in-less-than-72-hours</guid>
+      <pubDate>Sat, 03 Oct 2026 14:54:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Aroluxe / TrustFall (EIN Presswire) - The Evo 2026 company release describes roughly 300 crew, a three-day build, LED walls, rigging points and the audio problem of a concrete convention hall.</description>
+    </item>
+    <item>
+      <title>Curve balls: Making the Esports World Cup production run smoothly</title>
+      <link>https://www.svgeurope.org/blog/headlines/curve-balls-making-the-esports-world-cup-production-run-smoothly/</link>
+      <guid isPermaLink="true">https://www.svgeurope.org/blog/headlines/curve-balls-making-the-esports-world-cup-production-run-smoothly/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:53:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>SVG Europe - Gravity Media on what goes wrong and gets fixed: a last-minute location change, a late call to add cinema cameras on the main stage, four stages. Useful for the 'how plans change' side.</description>
+    </item>
+    <item>
+      <title>Ingesting Live Video Streams at Global Scale</title>
+      <link>https://blog.twitch.tv/en/2022/04/26/ingesting-live-video-streams-at-global-scale/</link>
+      <guid isPermaLink="true">https://blog.twitch.tv/en/2022/04/26/ingesting-live-video-streams-at-global-scale/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:52:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Twitch Engineering - Twitch's video ingest team on points of presence, backbone and origin data centers. Software side of getting a live stream to viewers. Read it for the pipeline, not the stage.</description>
+    </item>
+    <item>
+      <title>[recommended] Live from the Esports World Cup: Inside the production gallery</title>
+      <link>https://www.svgeurope.org/blog/headlines/live-from-the-esports-world-cup-inside-the-production-gallery/</link>
+      <guid isPermaLink="true">https://www.svgeurope.org/blog/headlines/live-from-the-esports-world-cup-inside-the-production-gallery/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:51:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>SVG Europe - Gallery-level detail: the TD's switcher setup, ATEMs for extra language and sponsor streams, 110 encoders sending about 280 streams, 10-12 live hours per stage per day.</description>
+    </item>
+    <item>
+      <title>[recommended] On the job with IATSE Local 28</title>
+      <link>https://nwlaborpress.org/2019/02/on-the-job-with-iatse-local-28/</link>
+      <guid isPermaLink="true">https://nwlaborpress.org/2019/02/on-the-job-with-iatse-local-28/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:50:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Don McIntosh (NW Labor Press) - Reported day on a KISS arena build with local riggers, explaining the team above and below the deck and how touring and house crews work together.</description>
+    </item>
+    <item>
+      <title>1,000 crew, 270 gaming PCs, 9 miles of fiber: Behind the scenes at IEM Katowice</title>
+      <link>https://thenextweb.com/news/1000-crew-270-gaming-pcs-9-miles-of-fiber-behind-the-scenes-at-iem-katowice</link>
+      <guid isPermaLink="true">https://thenextweb.com/news/1000-crew-270-gaming-pcs-9-miles-of-fiber-behind-the-scenes-at-iem-katowice</guid>
+      <pubDate>Sat, 03 Oct 2026 14:49:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>The Next Web - ESL's IEM Katowice from a visitor's tour: the internet link feeding concurrent matches on four stages to the cloud. Dated (2017) and light, but shows the LAN-event backbone.</description>
+    </item>
+    <item>
+      <title>[recommended] Labor of love: rigger</title>
+      <link>https://www.petzl.com/US/en/Professional/News/2015-9-18/Labor-of-love--rigger</link>
+      <guid isPermaLink="true">https://www.petzl.com/US/en/Professional/News/2015-9-18/Labor-of-love--rigger</guid>
+      <pubDate>Sat, 03 Oct 2026 14:48:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Ben Mazuer interview (Petzl) - A working rigger talks through long setup-and-strike days, ceiling load limits, team rotation, fatigue and getting started locally.</description>
+    </item>
+    <item>
+      <title>7 Days, Zero Sleep, Millimetric Passion: Behind the Scenes of the PMGC World Finals</title>
+      <link>https://www.sahneva.com/en/blog/pmgc-world-finals-behind-the-scenes</link>
+      <guid isPermaLink="true">https://www.sahneva.com/en/blog/pmgc-world-finals-behind-the-scenes</guid>
+      <pubDate>Sat, 03 Oct 2026 14:47:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Sahneva Editorial Team - A PUBG Mobile vendor account focuses on physical stage panels, LED fit, overhead rigging and cross-language coordination at the 2023 Istanbul final.</description>
+    </item>
+    <item>
+      <title>The largest VALORANT production to date and how cloud computing enabled it</title>
+      <link>https://madcity.gg/the-largest-valorant-production-to-date-and-how-cloud-computing-enabled-it/</link>
+      <guid isPermaLink="true">https://madcity.gg/the-largest-valorant-production-to-date-and-how-cloud-computing-enabled-it/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:46:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Mad City - Fully distributed production crew (TD, audio, replay, graphics, observers) working from a cloud studio. Early example of the remote model Riot now runs permanently.</description>
+    </item>
+    <item>
+      <title>EVO Championship - Mastering eSports Production</title>
+      <link>https://trustfall.co/project/evo/</link>
+      <guid isPermaLink="true">https://trustfall.co/project/evo/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:45:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Trust Fall Technology Group - An Evo vendor case study explains nine stage builds, concurrent load-ins, 3D visualization, pre-rigging and advance programming.</description>
+    </item>
+    <item>
+      <title>The Team Behind Worlds 2022 Esports Broadcast</title>
+      <link>https://www.riotgames.com/en/news/meet-team-behind-worlds-2022-esports-broadcast</link>
+      <guid isPermaLink="true">https://www.riotgames.com/en/news/meet-team-behind-worlds-2022-esports-broadcast</guid>
+      <pubDate>Sat, 03 Oct 2026 14:44:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Riot Games - Who actually staffs Worlds: people from film, TV, sports, music and live entertainment. Good for seeing what roles exist and where PA-type people come from.</description>
+    </item>
+    <item>
+      <title>[recommended] Before Doors</title>
+      <link>https://hob.farm/articles/before-doors/</link>
+      <guid isPermaLink="true">https://hob.farm/articles/before-doors/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:43:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>hob.farm - A Las Vegas house-crew account of a five-hour concert load-in after both loading elevators failed.</description>
+    </item>
+    <item>
+      <title>[recommended] Esports World Cup 2025: Inside EFG's Hybrid Production</title>
+      <link>https://www.sportsvideo.org/2025/08/14/esports-world-cup-2025-inside-efgs-hybrid-production/</link>
+      <guid isPermaLink="true">https://www.sportsvideo.org/2025/08/14/esports-world-cup-2025-inside-efgs-hybrid-production/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:42:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Sports Video Group - ESL FACEIT Group's head of broadcast engineering on running multiple stages, studios and server rooms across several buildings, mixing baseband and ST 2110.</description>
+    </item>
+    <item>
+      <title>[recommended] How Riot Esports Delivers Worlds 2022 Broadcast to a Global Audience</title>
+      <link>https://www.riotgames.com/en/news/riot-esports-delivering-custom-global-broadcasts-worlds-2022</link>
+      <guid isPermaLink="true">https://www.riotgames.com/en/news/riot-esports-delivering-custom-global-broadcasts-worlds-2022</guid>
+      <pubDate>Sat, 03 Oct 2026 14:41:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Riot Games - The 'world feed' model: Riot builds a kit of venue footage, graphics and music, and 22 partners make 21 language shows from it. Also covers how a broadcast day starts with a story meeting days before going live.</description>
+    </item>
+    <item>
+      <title>[recommended] Let's Load in!</title>
+      <link>https://soundgirls.org/lets-load-in/</link>
+      <guid isPermaLink="true">https://soundgirls.org/lets-load-in/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:40:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>SoundGirls (byline not exposed in fetched article) - A touring audio lead walks through Mean Girls load-in, from truck order and cable runs to splitting the local crew and tuning the room.</description>
+    </item>
+    <item>
+      <title>How Riot used tech from The Mandalorian to build Worlds' mixed reality stage</title>
+      <link>https://www.theverge.com/2020/10/24/21529317/league-of-legends-world-championship-high-tech-stage-riot-mandalorian</link>
+      <guid isPermaLink="true">https://www.theverge.com/2020/10/24/21529317/league-of-legends-world-championship-high-tech-stage-riot-mandalorian</guid>
+      <pubDate>Sat, 03 Oct 2026 14:39:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>The Verge - LED volume stage for the 2020 Shanghai Worlds, built on a compressed schedule when travel stopped. Older and consumer-press level, but a clear picture of stage tech.</description>
+    </item>
+  </channel>
 </rss>
