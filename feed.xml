@@ -6,7 +6,55 @@
     <atom:link href="https://echo4eva.github.io/reading-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Curated reading lists: how live events and esports get made. Items marked [recommended] are the picks.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Oct 2026 23:57:03 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 09:23:16 -0700</lastBuildDate>
+    <item>
+      <title>[recommended] Rocking the Rock Legends Cruise XIII - A Gig Diary</title>
+      <link>https://www.mixonline.com/blog/mix-live-blog-rocking-the-rock-legends-cruise-xiii-a-gig-diary</link>
+      <guid isPermaLink="true">https://www.mixonline.com/blog/mix-live-blog-rocking-the-rock-legends-cruise-xiii-a-gig-diary</guid>
+      <pubDate>Wed, 14 Oct 2026 09:23:16 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Steve La Cerra / Mix - A touring FOH engineer walks through gear routing, cramped backstage prep, line checks and a last-minute door hold aboard a cruise ship.</description>
+    </item>
+    <item>
+      <title>[recommended] Harness engineering - leveraging Codex in an agent-first world</title>
+      <link>https://openai.com/index/harness-engineering/</link>
+      <guid isPermaLink="true">https://openai.com/index/harness-engineering/</guid>
+      <pubDate>Wed, 14 Oct 2026 09:23:16 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Ryan Lopopolo / OpenAI - How one team made tests, architecture rules, documentation and observability usable by coding agents instead of relying on better prompts.</description>
+    </item>
+    <item>
+      <title>[recommended] Determinism in League of Legends - Introduction</title>
+      <link>https://www.riotgames.com/en/news/determinism-league-legends-introduction</link>
+      <guid isPermaLink="true">https://www.riotgames.com/en/news/determinism-league-legends-introduction</guid>
+      <pubDate>Wed, 14 Oct 2026 09:23:16 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Rick Hoskinson / Riot Games - The engineering behind Chronobreak: recorded inputs and a deterministic server let officials recover an interrupted match without starting over.</description>
+    </item>
+    <item>
+      <title>How Postman runs Agent Mode for 40 million developers on Amazon Bedrock</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/</link>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/</guid>
+      <pubDate>Wed, 14 Oct 2026 09:23:16 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Srinivas Kini and Shubham Gupta / AWS - A mature product becomes agent-readable through task-scoped tools, schema-based queries and context handlers built for reasoning rather than UI rendering.</description>
+    </item>
+    <item>
+      <title>A Long Day in the Life</title>
+      <link>https://www.mixonline.com/blog/mix-blog-live-a-long-day-in-the-life</link>
+      <guid isPermaLink="true">https://www.mixonline.com/blog/mix-blog-live-a-long-day-in-the-life</guid>
+      <pubDate>Wed, 14 Oct 2026 09:23:16 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Steve La Cerra / Mix - A late load-in becomes a 17-hour day through rental trouble, merch settlement and a rushed load-out, showing the work outside the soundcheck.</description>
+    </item>
+    <item>
+      <title>What we learned from building cloud agents</title>
+      <link>https://unreallabs.ai/blog/what-we-learned-from-building-cloud-agents/</link>
+      <guid isPermaLink="true">https://unreallabs.ai/blog/what-we-learned-from-building-cloud-agents/</guid>
+      <pubDate>Wed, 14 Oct 2026 09:23:16 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Unreal Labs - A component-by-component account of the infrastructure around cloud agents, including persistence, credential handling and SDK compatibility failures.</description>
+    </item>
     <item>
       <title>[recommended] I Am with You: The Active Love of Samwise Gamgee</title>
       <link>https://fellowshipandfairydust.com/2014/05/28/i-am-with-you-the-active-love-of-samwise-gamgee/</link>
