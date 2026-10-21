@@ -6,7 +6,63 @@
     <atom:link href="https://echo4eva.github.io/reading-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Curated reading lists: how live events and esports get made. Items marked [recommended] are the picks.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 09:23:16 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:25:00 -0700</lastBuildDate>
+    <item>
+      <title>[recommended] The Human Infrastructure: How Netflix Built the Operations Layer Behind Live at Scale</title>
+      <link>https://netflixtechblog.com/the-human-infrastructure-how-netflix-built-the-operations-layer-behind-live-at-scale-33e2a311c597</link>
+      <guid isPermaLink="true">https://netflixtechblog.com/the-human-infrastructure-how-netflix-built-the-operations-layer-behind-live-at-scale-33e2a311c597</guid>
+      <pubDate>Wed, 21 Oct 2026 09:25:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Brett Axler, Casper Choffat and Alo Lowry / Netflix - How improvised first live shows became a permanent Live Operations team with its own command center and playbooks built for live speed.</description>
+    </item>
+    <item>
+      <title>[recommended] Redesigning source control at Anthropic</title>
+      <link>https://www.anthropic.com/engineering/redesigning-source-control</link>
+      <guid isPermaLink="true">https://www.anthropic.com/engineering/redesigning-source-control</guid>
+      <pubDate>Wed, 21 Oct 2026 09:25:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Anthropic Engineering - Tenfold merge growth forced a move off git to Scion, an in-house version control system designed around always-online agents and CI.</description>
+    </item>
+    <item>
+      <title>[recommended] ARRI ALEXA 35 Live at Eurovision 2026 - Behind the Scenes of ARRI's Biggest Broadcast Deployment</title>
+      <link>https://www.cined.com/arri-alexa-35-live-at-eurovision-2026-cined-goes-behind-the-scenes-of-the-biggest-broadcast-deployment-in-arri-history/</link>
+      <guid isPermaLink="true">https://www.cined.com/arri-alexa-35-live-at-eurovision-2026-cined-goes-behind-the-scenes-of-the-biggest-broadcast-deployment-in-arri-history/</guid>
+      <pubDate>Wed, 21 Oct 2026 09:25:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Nino Leitner / CineD - Five weeks on the ground as Eurovision shot its entire 2026 show on 24 ARRI cinema cameras for the first time.</description>
+    </item>
+    <item>
+      <title>How we built Linear Agent</title>
+      <link>https://linear.app/now/how-we-built-linear-agent</link>
+      <guid isPermaLink="true">https://linear.app/now/how-we-built-linear-agent</guid>
+      <pubDate>Wed, 21 Oct 2026 09:25:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Matthijs Wolting / Linear - Designing an AI agent by defining boundaries - prompt, tools, run scope and harness - instead of scripting its behavior.</description>
+    </item>
+    <item>
+      <title>How we built Cloudflare's data platform and an AI agent on top of it</title>
+      <link>https://blog.cloudflare.com/our-unified-data-platform/</link>
+      <guid isPermaLink="true">https://blog.cloudflare.com/our-unified-data-platform/</guid>
+      <pubDate>Wed, 21 Oct 2026 09:25:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Brian Brunner, Dmitry Alexeenko and Matt Moen / Cloudflare - Unifying scattered production data into one platform an analyst or an agent can actually query.</description>
+    </item>
+    <item>
+      <title>Roland-Garros 2026: Inside the FFT and Whisper's production for the French Open</title>
+      <link>https://www.svgeurope.org/blog/headlines/roland-garros-2026-inside-the-fft-and-host-broadcaster-whispers-production-for-the-latest-instalment-of-the-french-open/</link>
+      <guid isPermaLink="true">https://www.svgeurope.org/blog/headlines/roland-garros-2026-inside-the-fft-and-host-broadcaster-whispers-production-for-the-latest-instalment-of-the-french-open/</guid>
+      <pubDate>Wed, 21 Oct 2026 09:25:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Heather McLean / SVG Europe - How a host broadcast operation matured in its second year: sharper crew communication, tighter coverage, more creative time.</description>
+    </item>
+    <item>
+      <title>One Step At A Time: A Monitor Engineer Documents A Typical Day On Tour</title>
+      <link>https://www.prosoundweb.com/one-step-at-a-time-a-monitor-engineer-documents-a-typical-day-on-tour/</link>
+      <guid isPermaLink="true">https://www.prosoundweb.com/one-step-at-a-time-a-monitor-engineer-documents-a-typical-day-on-tour/</guid>
+      <pubDate>Wed, 21 Oct 2026 09:25:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Becky Pell / ProSoundWeb - A monitor engineer's full tour workday, step by step, and how the work splits across the audio crew.</description>
+    </item>
     <item>
       <title>[recommended] Rocking the Rock Legends Cruise XIII - A Gig Diary</title>
       <link>https://www.mixonline.com/blog/mix-live-blog-rocking-the-rock-legends-cruise-xiii-a-gig-diary</link>
