@@ -6,7 +6,63 @@
     <atom:link href="https://echo4eva.github.io/reading-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Curated reading lists: how live events and esports get made. Items marked [recommended] are the picks.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 09:25:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 09:22:00 -0700</lastBuildDate>
+    <item>
+      <title>[recommended] SnowPR: Benchmarking Coding Agents on Snowflake's 43-Million-Line Monorepo</title>
+      <link>https://www.snowflake.com/en/blog/engineering/Benchmarking-coding-agents/</link>
+      <guid isPermaLink="true">https://www.snowflake.com/en/blog/engineering/Benchmarking-coding-agents/</guid>
+      <pubDate>Wed, 28 Oct 2026 09:22:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Soyoung Yoon et al. / Snowflake - Public benchmarks do not look like a 43-million-line Bazel monorepo, so Snowflake built tasks from its own repository to measure coding agents.</description>
+    </item>
+    <item>
+      <title>[recommended] Failure Is a Feature: Engineering Fault-Tolerant AI Agents</title>
+      <link>https://queue.acm.org/doi/10.1145/3841558</link>
+      <guid isPermaLink="true">https://queue.acm.org/doi/10.1145/3841558</guid>
+      <pubDate>Wed, 28 Oct 2026 09:22:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Tommy Tran / ACM Queue - Agents fail like distributed systems; seven classic reliability patterns beat prompt tweaks, with reproducible numbers from a released harness.</description>
+    </item>
+    <item>
+      <title>[recommended] Weezer: 'The Gathering' Tour</title>
+      <link>https://fohonline.com/articles/production-profile/weezer-the-gathering-tour/</link>
+      <guid isPermaLink="true">https://fohonline.com/articles/production-profile/weezer-the-gathering-tour/</guid>
+      <pubDate>Wed, 28 Oct 2026 09:22:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Steve Jennings / FOH Magazine - A veteran FOH engineer switches from DiGiCo to Yamaha Rivage mid-career and learns the desk night by night on tour.</description>
+    </item>
+    <item>
+      <title>FIFA World Cup 2026: Inside TV Skyline's Resilient Remote Production Setup for Germany's MagentaTV</title>
+      <link>https://www.svgeurope.org/blog/headlines/fifa-world-cup-2026-inside-tv-skylines-resilient-remote-production-setup-for-germanys-magentatv/</link>
+      <guid isPermaLink="true">https://www.svgeurope.org/blog/headlines/fifa-world-cup-2026-inside-tv-skylines-resilient-remote-production-setup-for-germanys-magentatv/</guid>
+      <pubDate>Wed, 28 Oct 2026 09:22:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>George Bevir / SVG Europe - The general-contractor remote production built to carry all 104 World Cup matches across three countries and studios in New York and Munich.</description>
+    </item>
+    <item>
+      <title>FIFA World Cup 2026: Inside ITV Sport's Split Remote Production from Brooklyn to London and Beyond</title>
+      <link>https://www.svgeurope.org/blog/headlines/fifa-world-cup-2026-inside-itv-sports-split-remote-production-from-brooklyn-to-london-and-beyond/</link>
+      <guid isPermaLink="true">https://www.svgeurope.org/blog/headlines/fifa-world-cup-2026-inside-itv-sports-split-remote-production-from-brooklyn-to-london-and-beyond/</guid>
+      <pubDate>Wed, 28 Oct 2026 09:22:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Heather McLean / SVG Europe - ITV splits its World Cup production between Brooklyn and London while running a 24/7 social stream in parallel.</description>
+    </item>
+    <item>
+      <title>How we built ChatGPT's novel ad stack for user trust and relevance</title>
+      <link>https://openai.com/index/building-chatgpt-ad-stack</link>
+      <guid isPermaLink="true">https://openai.com/index/building-chatgpt-ad-stack</guid>
+      <pubDate>Wed, 28 Oct 2026 09:22:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Ritendra Datta and Karthik Gopalratnam / OpenAI - A bespoke ads system for conversational intent: stateful sessions, a tool-calling LLM for retrieval and auctions, kept separate from answer generation.</description>
+    </item>
+    <item>
+      <title>Lessons learned from building AI analytics agents: build for chaos</title>
+      <link>https://www.metabase.com/blog/lessons-learned-building-ai-analytics-agents/</link>
+      <guid isPermaLink="true">https://www.metabase.com/blog/lessons-learned-building-ai-analytics-agents/</guid>
+      <pubDate>Wed, 28 Oct 2026 09:22:00 -0700</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Thomas Schmidt / Metabase - What broke when an analytics agent met real customer data, and the three context-engineering patterns that fixed it.</description>
+    </item>
     <item>
       <title>[recommended] The Human Infrastructure: How Netflix Built the Operations Layer Behind Live at Scale</title>
       <link>https://netflixtechblog.com/the-human-infrastructure-how-netflix-built-the-operations-layer-behind-live-at-scale-33e2a311c597</link>
