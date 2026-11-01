@@ -6,7 +6,71 @@
     <atom:link href="https://echo4eva.github.io/reading-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Curated reading lists: how live events and esports get made. Items marked [recommended] are the picks.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 09:22:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 10:05:00 -0800</lastBuildDate>
+    <item>
+      <title>[recommended] Vibe coding for designers: my actual process</title>
+      <link>https://www.antonsten.com/articles/vibe-coding-for-designers/</link>
+      <guid isPermaLink="true">https://www.antonsten.com/articles/vibe-coding-for-designers/</guid>
+      <pubDate>Sun, 01 Nov 2026 10:05:00 -0800</pubDate>
+      <category>design-with-llms</category>
+      <description>Anton Sten - A veteran designer's honest process: start in Figma, not in a prompt; AI is a builder, not an architect, and sometimes you just ship without the scroll animation.</description>
+    </item>
+    <item>
+      <title>[recommended] Claude Code + Figma MCP Workflow: Design to Shipped UI</title>
+      <link>https://www.mejba.me/blog/claude-code-figma-mcp-workflow</link>
+      <guid isPermaLink="true">https://www.mejba.me/blog/claude-code-figma-mcp-workflow</guid>
+      <pubDate>Sun, 01 Nov 2026 10:05:00 -0800</pubDate>
+      <category>design-with-llms</category>
+      <description>Mejba Ahmed - Tokens first, screens second, then an agent-run loop that screenshots the build and diffs it against the Figma frame; plain about rate limits and messy files.</description>
+    </item>
+    <item>
+      <title>[recommended] From Figma to Vibe Coding</title>
+      <link>https://www.daniellecarrick.com/blog/from-figma-to-vibe-coding</link>
+      <guid isPermaLink="true">https://www.daniellecarrick.com/blog/from-figma-to-vibe-coding</guid>
+      <pubDate>Sun, 01 Nov 2026 10:05:00 -0800</pubDate>
+      <category>design-with-llms</category>
+      <description>Danielle Carrick - Her AI-built prototype grew to nine tabs and acquired real technical debt; the fix is a component library and an AGENTS.md from day one.</description>
+    </item>
+    <item>
+      <title>[recommended] Gas Town's Agent Patterns, Design Bottlenecks, and Vibecoding at Scale</title>
+      <link>https://maggieappleton.com/gastown</link>
+      <guid isPermaLink="true">https://maggieappleton.com/gastown</guid>
+      <pubDate>Sun, 01 Nov 2026 10:05:00 -0800</pubDate>
+      <category>design-with-llms</category>
+      <description>Maggie Appleton - On a Yegge-style multi-agent orchestrator: once agents write all the code, design and planning become the bottleneck.</description>
+    </item>
+    <item>
+      <title>[recommended] From vibe-coded prototypes to how we work</title>
+      <link>https://monika.fyi/writing/vibe-coded-prototypes</link>
+      <guid isPermaLink="true">https://monika.fyi/writing/vibe-coded-prototypes</guid>
+      <pubDate>Sun, 01 Nov 2026 10:05:00 -0800</pubDate>
+      <category>design-with-llms</category>
+      <description>Monika Pawlak / Miro - When building gets cheap, decisions become scarce; four habits that turned prototypes into shipped product, incl. 64 merged designer PRs.</description>
+    </item>
+    <item>
+      <title>Screenshot to Code With Claude: Can It Really Rebuild a Whole Page?</title>
+      <link>https://sergeichyrkov.com/blog/screenshot-to-code-claude</link>
+      <guid isPermaLink="true">https://sergeichyrkov.com/blog/screenshot-to-code-claude</guid>
+      <pubDate>Sun, 01 Nov 2026 10:05:00 -0800</pubDate>
+      <category>design-with-llms</category>
+      <description>Sergei Chyrkov - Controlled test: full-page screenshots lose whole sections because the model gets a shrunken image; structure+text beats pixels. Note: he promotes the conversion tool he uses.</description>
+    </item>
+    <item>
+      <title>How I used AI to close the gap in UI design workflow</title>
+      <link>https://stampede-design.com/blog/how-i-used-ai-to-close-the-gap-in-ui-design-workflow/</link>
+      <guid isPermaLink="true">https://stampede-design.com/blog/how-i-used-ai-to-close-the-gap-in-ui-design-workflow/</guid>
+      <pubDate>Sun, 01 Nov 2026 10:05:00 -0800</pubDate>
+      <category>design-with-llms</category>
+      <description>Mai Sarah / Stampede - Claude assembles UI inside Figma via Console MCP; the real work is making the design library machine-readable. Agency blog, mildly promotional.</description>
+    </item>
+    <item>
+      <title>AI made me faster. The design system is what made it reliable</title>
+      <link>https://petrkriz.com/ai-design-engineering.html</link>
+      <guid isPermaLink="true">https://petrkriz.com/ai-design-engineering.html</guid>
+      <pubDate>Sun, 01 Nov 2026 10:05:00 -0800</pubDate>
+      <category>design-with-llms</category>
+      <description>Petr Kriz - Design rules as an AGENTS.md contract enforced by screenshot-diff CI: an agent may only claim pixel-perfect if the diff actually ran.</description>
+    </item>
     <item>
       <title>[recommended] SnowPR: Benchmarking Coding Agents on Snowflake's 43-Million-Line Monorepo</title>
       <link>https://www.snowflake.com/en/blog/engineering/Benchmarking-coding-agents/</link>
