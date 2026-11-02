@@ -6,7 +6,63 @@
     <atom:link href="https://echo4eva.github.io/reading-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Curated reading lists: how live events and esports get made. Items marked [recommended] are the picks.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 10:05:00 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:59:00 -0800</lastBuildDate>
+    <item>
+      <title>[recommended] The Sovereignty of Good - Iris Murdoch (1970)</title>
+      <link>https://archive.org/details/sovereigntyofgoo0000murd</link>
+      <guid isPermaLink="true">https://archive.org/details/sovereigntyofgoo0000murd</guid>
+      <pubDate>Mon, 02 Nov 2026 09:59:00 -0800</pubDate>
+      <category>iris-murdoch</category>
+      <description>Start here. Three short essays: unselfing, attention, the kestrel passage. Free borrow with a free Internet Archive account.</description>
+    </item>
+    <item>
+      <title>[recommended] The Bell - Iris Murdoch (1958)</title>
+      <link>https://archive.org/details/bell00murd</link>
+      <guid isPermaLink="true">https://archive.org/details/bell00murd</guid>
+      <pubDate>Mon, 02 Nov 2026 09:58:00 -0800</pubDate>
+      <category>iris-murdoch</category>
+      <description>Consensus best first novel: a lay religious community, people trying to be good and failing. Funny and contained.</description>
+    </item>
+    <item>
+      <title>[recommended] Existentialists and Mystics - Iris Murdoch (1997)</title>
+      <link>https://archive.org/details/existentialistsm0000murd</link>
+      <guid isPermaLink="true">https://archive.org/details/existentialistsm0000murd</guid>
+      <pubDate>Mon, 02 Nov 2026 09:57:00 -0800</pubDate>
+      <category>iris-murdoch</category>
+      <description>Her collected essays; contains 'The Sublime and the Good', the actual source of the love quote. Reprints the Sovereignty of Good essays.</description>
+    </item>
+    <item>
+      <title>The Sea, The Sea - Iris Murdoch (1978)</title>
+      <link>https://archive.org/details/seasea0000murd_r3j9</link>
+      <guid isPermaLink="true">https://archive.org/details/seasea0000murd_r3j9</guid>
+      <pubDate>Mon, 02 Nov 2026 09:56:00 -0800</pubDate>
+      <category>iris-murdoch</category>
+      <description>Booker winner and the strongest fiction match for the unselfing ideas; one scholar suggests reading one or two other Murdochs first.</description>
+    </item>
+    <item>
+      <title>Under the Net - Iris Murdoch (1954)</title>
+      <link>https://archive.org/details/undernet0000iris</link>
+      <guid isPermaLink="true">https://archive.org/details/undernet0000iris</guid>
+      <pubDate>Mon, 02 Nov 2026 09:55:00 -0800</pubDate>
+      <category>iris-murdoch</category>
+      <description>Her debut and the light, comic door in. Modern Library 100 best English-language novels of the 20th century.</description>
+    </item>
+    <item>
+      <title>The Black Prince - Iris Murdoch (1973)</title>
+      <link>https://archive.org/details/blackprince0000murd</link>
+      <guid isPermaLink="true">https://archive.org/details/blackprince0000murd</guid>
+      <pubDate>Mon, 02 Nov 2026 09:54:00 -0800</pubDate>
+      <category>iris-murdoch</category>
+      <description>For when you are already enjoying her; the candidate for her best novel.</description>
+    </item>
+    <item>
+      <title>Metaphysics as a Guide to Morals - Iris Murdoch (1992)</title>
+      <link>https://archive.org/details/metaphysicsasgui0000murd</link>
+      <guid isPermaLink="true">https://archive.org/details/metaphysicsasgui0000murd</guid>
+      <pubDate>Mon, 02 Nov 2026 09:53:00 -0800</pubDate>
+      <category>iris-murdoch</category>
+      <description>The summit, only if hooked. Dip in 5-10 pages at a time, not cover to cover.</description>
+    </item>
     <item>
       <title>[recommended] Vibe coding for designers: my actual process</title>
       <link>https://www.antonsten.com/articles/vibe-coding-for-designers/</link>
