@@ -6,7 +6,31 @@
     <atom:link href="https://echo4eva.github.io/reading-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Curated reading lists: how live events and esports get made. Items marked [recommended] are the picks.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 10:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 10:50:00 -0800</lastBuildDate>
+    <item>
+      <title>[recommended] Renaissance: The Blood and the Beauty - BBC/PBS documentary (2024)</title>
+      <link>https://www.pbs.org/show/renaissance-the-blood-and-the-beauty/</link>
+      <guid isPermaLink="true">https://www.pbs.org/show/renaissance-the-blood-and-the-beauty/</guid>
+      <pubDate>Tue, 03 Nov 2026 10:50:00 -0800</pubDate>
+      <category>renaissance</category>
+      <description>Watch first. 3 episodes of about an hour, free on pbs.org and the PBS app: Michelangelo, Leonardo and Raphael inside the money, war and papal politics that produced their art. Docudrama with reenactments; Italy-focused.</description>
+    </item>
+    <item>
+      <title>Renaissance: The Transformation of the West - The Great Courses, Prof. Jennifer McNabb (2018)</title>
+      <link>https://www.kanopy.com/en/product/5817241</link>
+      <guid isPermaLink="true">https://www.kanopy.com/en/product/5817241</guid>
+      <pubDate>Tue, 03 Nov 2026 10:49:00 -0800</pubDate>
+      <category>renaissance</category>
+      <description>The ideas and origins: humanism, why classical thought returned, daily life, the Reformation link. 48 short lectures, free if your library subscribes to Kanopy or Hoopla (limits vary). Lectures 1-4 are the how-it-started block and stand alone.</description>
+    </item>
+    <item>
+      <title>Florence and the Renaissance - Crash Course European History #2 (YouTube)</title>
+      <link>https://www.youtube.com/watch?v=tecocKSclwc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=tecocKSclwc</guid>
+      <pubDate>Tue, 03 Nov 2026 10:48:00 -0800</pubDate>
+      <category>renaissance</category>
+      <description>Free 15-minute explainer: what humanism was and why it started in Florence. Pair with "The Renaissance: Was it a Thing?" (World History #22) for the argument that the Renaissance is partly a story told afterward.</description>
+    </item>
     <item>
       <title>[recommended] The Sovereignty of Good - Iris Murdoch (1970)</title>
       <link>https://archive.org/details/sovereigntyofgoo0000murd</link>
@@ -1001,3 +1025,4 @@
     </item>
   </channel>
 </rss>
+
