@@ -6,7 +6,63 @@
     <atom:link href="https://echo4eva.github.io/reading-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Curated reading lists: how live events and esports get made. Items marked [recommended] are the picks.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 10:50:00 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 09:21:00 -0800</lastBuildDate>
+    <item>
+      <title>[recommended] Teaching an Agent to Use a Phone: How We Built AI for Android and iOS Tests</title>
+      <link>https://www.qawolf.com/blog/teaching-an-agent-to-use-a-phone</link>
+      <guid isPermaLink="true">https://www.qawolf.com/blog/teaching-an-agent-to-use-a-phone</guid>
+      <pubDate>Wed, 04 Nov 2026 09:21:00 -0800</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Erzhan Torokulov / QA Wolf - A web page hands over its DOM; a native app exposes only its accessibility tree. Building a test agent around that difference.</description>
+    </item>
+    <item>
+      <title>[recommended] How we built Lovable, and why we keep rebuilding it</title>
+      <link>https://lovable.dev/blog/how-we-built-lovable-and-why-we-keep-rebuilding-it</link>
+      <guid isPermaLink="true">https://lovable.dev/blog/how-we-built-lovable-and-why-we-keep-rebuilding-it</guid>
+      <pubDate>Wed, 04 Nov 2026 09:21:00 -0800</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Anton Osika / Lovable - Why the team rebuilds a working product each time a new model generation changes what is possible.</description>
+    </item>
+    <item>
+      <title>[recommended] Sheer scale: Giving the NFL International Series all the production toys it wants with NEP</title>
+      <link>https://www.svgeurope.org/blog/headlines/sheer-scale-giving-the-nfl-international-series-all-the-production-toys-it-wants-with-nep/</link>
+      <guid isPermaLink="true">https://www.svgeurope.org/blog/headlines/sheer-scale-giving-the-nfl-international-series-all-the-production-toys-it-wants-with-nep/</guid>
+      <pubDate>Wed, 04 Nov 2026 09:21:00 -0800</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Heather McLean / SVG Europe - NEP's full-size traveling production for the NFL's first game in France, 62nd international game overall.</description>
+    </item>
+    <item>
+      <title>Live from E1 Series: Inside the remote production operation</title>
+      <link>https://www.svgeurope.org/blog/headlines/live-from-e1-series-inside-the-remote-production-operation/</link>
+      <guid isPermaLink="true">https://www.svgeurope.org/blog/headlines/live-from-e1-series-inside-the-remote-production-operation/</guid>
+      <pubDate>Wed, 04 Nov 2026 09:21:00 -0800</pubDate>
+      <category>how-it-gets-made</category>
+      <description>George Bevir / SVG Europe - A global powerboat championship run as a fully remote production, with no broadcast compound traveling to each venue.</description>
+    </item>
+    <item>
+      <title>Kacey Musgraves' 'Middle of Nowhere' Tour</title>
+      <link>https://fohonline.com/articles/tour-focus/kacey-musgraves-middle-of-nowhere-tour/</link>
+      <guid isPermaLink="true">https://fohonline.com/articles/tour-focus/kacey-musgraves-middle-of-nowhere-tour/</guid>
+      <pubDate>Wed, 04 Nov 2026 09:21:00 -0800</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Kevin M. Mitchell / FOH Magazine - How the sound, lighting and video teams' setups fit together into one touring show.</description>
+    </item>
+    <item>
+      <title>Managing Spontaneity: A Conversation With Brian Speiser, FOH Engineer &amp; Production Manager For Tedeschi Trucks Band</title>
+      <link>https://www.prosoundweb.com/managing-spontaneity-a-conversation-with-brian-speiser-foh-engineer-production-manager-for-tedeschi-trucks-band/</link>
+      <guid isPermaLink="true">https://www.prosoundweb.com/managing-spontaneity-a-conversation-with-brian-speiser-foh-engineer-production-manager-for-tedeschi-trucks-band/</guid>
+      <pubDate>Wed, 04 Nov 2026 09:21:00 -0800</pubDate>
+      <category>how-it-gets-made</category>
+      <description>ProSoundWeb - Mixing a twelve-piece improvising band while also carrying the production manager role: systems built to absorb spontaneity.</description>
+    </item>
+    <item>
+      <title>Four layers of context engineering for production AI agents: How Deep Insight applies them in working code</title>
+      <link>https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/</link>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/</guid>
+      <pubDate>Wed, 04 Nov 2026 09:21:00 -0800</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Yoonseo Kim et al. / AWS - Four context-engineering techniques applied as one working system; 95% fewer tool-script tokens, 97% smaller system prompt.</description>
+    </item>
     <item>
       <title>[recommended] Renaissance: The Blood and the Beauty - BBC/PBS documentary (2024)</title>
       <link>https://www.pbs.org/show/renaissance-the-blood-and-the-beauty/</link>
