@@ -6,7 +6,63 @@
     <atom:link href="https://echo4eva.github.io/reading-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Curated reading lists: how live events and esports get made. Items marked [recommended] are the picks.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 10:30:00 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:21:00 -0800</lastBuildDate>
+    <item>
+      <title>[recommended] What we are changing after October 21</title>
+      <link>https://docs.litellm.ai/blog/security-changes-after-oct-21-2026</link>
+      <guid isPermaLink="true">https://docs.litellm.ai/blog/security-changes-after-oct-21-2026</guid>
+      <pubDate>Wed, 11 Nov 2026 09:21:00 -0800</pubDate>
+      <category>how-it-gets-made</category>
+      <description>liteLLM - Two malicious releases in one year through two different attack surfaces: a CI dependency with static keys, then a leaked key leading to an org-owner token. Why hardening against the last attack was not enough.</description>
+    </item>
+    <item>
+      <title>[recommended] How we continuously validate formal specifications in production</title>
+      <link>https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/</link>
+      <guid isPermaLink="true">https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/</guid>
+      <pubDate>Wed, 11 Nov 2026 09:21:00 -0800</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Datadog Engineering - Keeping formal specs checked against the live system so drift surfaces as it happens, not at design time.</description>
+    </item>
+    <item>
+      <title>[recommended] Behind the scenes of Daniel Caesar's Son Of Spergy Tour</title>
+      <link>https://www.tpimagazine.com/behind-the-scenes-of-daniel-caesars-son-of-spergy-tour/</link>
+      <guid isPermaLink="true">https://www.tpimagazine.com/behind-the-scenes-of-daniel-caesars-son-of-spergy-tour/</guid>
+      <pubDate>Wed, 11 Nov 2026 09:21:00 -0800</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Jacob Waite / TPi Magazine - Staggered labour calls, 6am rigging walks and departments building in synchronicity behind a deliberately loose, no-setlist show.</description>
+    </item>
+    <item>
+      <title>What we learned from a 22-Day storage bug (and how we fixed it)</title>
+      <link>https://www.mux.com/blog/22-day-storage-bug</link>
+      <guid isPermaLink="true">https://www.mux.com/blog/22-day-storage-bug</guid>
+      <pubDate>Wed, 11 Nov 2026 09:21:00 -0800</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Drew Rodman and Constantin Britcov / Mux - A 22-day hunt through a production storage system, false leads and all.</description>
+    </item>
+    <item>
+      <title>How we systematically improved our reliability</title>
+      <link>https://neon.com/blog/how-we-systematically-improved-our-reliability</link>
+      <guid isPermaLink="true">https://neon.com/blog/how-we-systematically-improved-our-reliability</guid>
+      <pubDate>Wed, 11 Nov 2026 09:21:00 -0800</pubDate>
+      <category>how-it-gets-made</category>
+      <description>Dmitrii Mokhnatkin and Andrei Stolbovskii / Neon - Reliability as an engineering discipline with its own process, not a reaction to incidents.</description>
+    </item>
+    <item>
+      <title>Creating A$AP Rocky's Don't Be Dumb Tour</title>
+      <link>https://www.tpimagazine.com/creating-aap-rockys-dont-be-dumb-tour/</link>
+      <guid isPermaLink="true">https://www.tpimagazine.com/creating-aap-rockys-dont-be-dumb-tour/</guid>
+      <pubDate>Wed, 11 Nov 2026 09:21:00 -0800</pubDate>
+      <category>how-it-gets-made</category>
+      <description>TPi Magazine - Designing, fabricating and moving an arena show built around helicopters and a 104-foot warship.</description>
+    </item>
+    <item>
+      <title>Every Move in Focus: BlackTrax on David Byrne's Who Is The Sky? Tour</title>
+      <link>https://cast-soft.com/every-move-in-focus-blacktrax-on-david-byrnes-who-is-the-sky-tour/</link>
+      <guid isPermaLink="true">https://cast-soft.com/every-move-in-focus-blacktrax-on-david-byrnes-who-is-the-sky-tour/</guid>
+      <pubDate>Wed, 11 Nov 2026 09:21:00 -0800</pubDate>
+      <category>how-it-gets-made</category>
+      <description>CAST Software - Real-time performer tracking ran lighting and video across a 147-show tour, with an engineer nearly 600 tracked shows deep.</description>
+    </item>
     <item>
       <title>New perfumes this week - November 6, 2026</title>
       <link>https://files.instinct.com/1561pjnkrmod-new-perfumes-week-of-nov-6</link>
