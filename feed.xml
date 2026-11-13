@@ -6,7 +6,15 @@
     <atom:link href="https://echo4eva.github.io/reading-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>Curated reading lists: how live events and esports get made. Items marked [recommended] are the picks.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:21:00 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:30:00 -0800</lastBuildDate>
+    <item>
+      <title>New perfumes this week - November 13, 2026</title>
+      <link>https://files.instinct.com/yg4k3otlix8q-new-perfumes-week-of-nov-13</link>
+      <guid isPermaLink="true">https://files.instinct.com/yg4k3otlix8q-new-perfumes-week-of-nov-13</guid>
+      <pubDate>Fri, 13 Nov 2026 10:30:00 -0800</pubDate>
+      <category>perfumes</category>
+      <description>Eleven additions, with sample-first picks GUIZIO Heaven Knows and Kingdom Scotland Aethereal. Includes an upcoming cranberry scent with a video review, three earlier catches, and clear availability caveats for Costa Brazil.</description>
+    </item>
     <item>
       <title>[recommended] What we are changing after October 21</title>
       <link>https://docs.litellm.ai/blog/security-changes-after-oct-21-2026</link>
@@ -1145,4 +1153,3 @@
     </item>
   </channel>
 </rss>
-
